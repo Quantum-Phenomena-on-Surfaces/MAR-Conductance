@@ -1,0 +1,19 @@
+1 ! Molecular spin
+0 0 ! Angles (deg) for molecular spin
+0.3 !gamma_left
+1.0 ! Bandwidth in eV
+0.00135 ! Delta_L
+0.00135 ! Delta_R
+0.00005 !Dynes_L
+0.00005 !Dynes_R
+1.0     ! J
+0.0     ! U
+0.0001 ! Bias ini
+0.00350 ! Bias fin
+150      ! N_Bias
+10      ! N_Floquet
+150     ! N_e in energy integration
+3.     ! Temp in K
+0 0     ! phases L and R in deg
+MAR_0.3_gamma_10_NF_150_Ne_3._T_1.0     !output name
+DMAR_0.3_gamma_10_NF_150_Ne_3._T_1.0     !output name
